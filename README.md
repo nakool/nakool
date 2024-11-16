@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krzeczowski Alain</h1>
-<h3 align="center">The number one of noob !</h3>
+<h3 align="center">The #1 of noob !</h3>
 
 - 🔭 I’m currently working on [sysunicorns_infra_melanie](https://github.com/DeerHide/sysunicorns_infra_melanie)
 
-- 🌱 I’m currently learning **Ansible, docker and kubernetes**
+- 🌱 I’m currently learning **Ansible, Docker and Kubernetes**
 
 - 📫 How to reach me **alain.krzeczowski@gmail.com**
 
