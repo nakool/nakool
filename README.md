@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [sysunicorns_infra_melanie](https://github.com/DeerHide/sysunicorns_infra_melanie)
 
-- 🌱 I’m currently learning **Ansible, Docker and Kubernetes**
+- 🌱 I’m currently learning **Ansible, Docker, Kubernetes and Python**
 
 - 📫 How to reach me **alain.krzeczowski@gmail.com**
 
