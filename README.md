@@ -10,9 +10,11 @@
 
 ###
 
-- 🔭 I’m currently working on [sysunicorns_infra_melanie](https://github.com/DeerHide/sysunicorns_infra_melanie)
+- 🔭 I’m currently working on [sysunicorns_infra_melanie](https://github.com/DeerHide/sysunicorns_infra_melanie) for [Deerhide](https://github.com/DeerHide/)
 
-- 🌱 I’m currently learning **Ansible, Docker, Kubernetes and Python**
+- 🌱 I’m currently learning **Ansible(Windows & Linux), Docker, Python**
+
+- 🔎 I'm on my way to learn **Kubernetes** and perform **Ansible(windows)**
 
 - 📫 How to reach me **alain.krzeczowski@gmail.com**
 
