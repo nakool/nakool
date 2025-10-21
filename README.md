@@ -38,7 +38,4 @@
 </p>
 
 <div align="center">
-<img src="https://count.getloli.com/@gh-nakou?&theme=rule34&padding=4&offset=10&align=top&scale=1&pixelated=1&darkmode=auto"/> </div>
-
-<div align="center">
 <img style="100%" height="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=45&fontColor=34A6F4&fontAlign=50&fontAlignY=45&rotate=0&stroke=10598A&strokeWidth=1&animation=twinkling&descSize=20&descAlign=50&descAlignY=85&textBg=false&theme=tokyonight" /> </div>
