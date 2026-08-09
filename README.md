@@ -9,11 +9,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakool&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" width="250" alt="languages graph"/>
 </div>
 
-- 🔭 I’m currently working on [infra_deerhide](https://github.com/DeerHide/infra_deerhide) for [Deerhide](https://github.com/DeerHide/)
+- 🔭 I’m currently working on [infra_deerhide](https://github.com/DeerHide/infra_deerhide) for [Deerhide](https://github.com/DeerHide/) and personal infra.
 
 - 🌱 I’m currently learning **Ansible(Windows, Linux & NAS(OtherLinux)), Docker, Python, DNS(zones)**
 
-- 🔎 I'm on my way to learn **Kubernetes** and perform **Ansible(windows)**
+- 🔎 I'm on my way to learn **python** and perform **Ansible(windows)**
 
 - 📫 How to reach me **alain.krzeczowski@gmail.com**
 
